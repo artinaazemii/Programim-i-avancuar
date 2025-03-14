@@ -27,5 +27,3 @@ def get_user_name():
 #Pershendetni perdoruesin me emer
 user_name = get_user_name()
 print(f"Hello, {user_name}!")
-
-
